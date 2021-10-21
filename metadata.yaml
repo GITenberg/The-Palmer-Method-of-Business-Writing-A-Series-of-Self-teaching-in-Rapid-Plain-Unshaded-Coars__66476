@@ -1,11 +1,16 @@
 _repo: The-Palmer-Method-of-Business-Writing-A-Series-of-Self-teaching-in-Rapid-Plain-Unshaded-Coars__66476
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66476-h/images/cover.jpg
 creator:
   author:
     agent_name: Palmer, A. N.
     gutenberg_agent_id: '53828'
     url: http://www.gutenberg.org/2009/agents/53828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66476#The-Palmer-Method-of-Business-Writing-A-Series-of-Self-teaching-in-Rapid-Plain-Unshaded-Coars_
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66476'
